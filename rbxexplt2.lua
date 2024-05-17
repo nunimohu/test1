@@ -1,4 +1,5 @@
---fly gui
+--roblox fly gui script
+--use it with your own risk your account​ may banned​
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local up = Instance.new("TextButton")
